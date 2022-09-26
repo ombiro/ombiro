@@ -20,11 +20,23 @@
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean" />&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" />&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />&nbsp;&nbsp;
 </p>
 <p align="center">TailwindCSS,React, HTML, Adobe Illustrator, Adobe XD, Adobe Photoshop, Figma, Git, Github, Bitbucket, Apache, Azure, Render.</p>
 
