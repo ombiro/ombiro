@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/ombiro/giphy.mp4" alt="header"/>
+  <img src="https://github.com/ombiro/giphy.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
