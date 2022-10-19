@@ -57,7 +57,7 @@
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a href="mailto:daltonombiro8@gmail.com?subject=Hello%20Dalton,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span> +254718785715 </span>
+  <a href= <img src="https://img.shields.io/badge/%2B254-0718785715-black"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
