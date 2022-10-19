@@ -44,7 +44,8 @@
 <h2 align="center"> Software </h2>
   <P align="center">
     <img src="https://img.shields.io/badge/Adobe-XD-red"/>&nbsp;&nbsp;&nbsp;
-    
+
+  </p>
                           
 <hr>
 
