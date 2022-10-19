@@ -42,13 +42,15 @@
 <hr>
 
 <h2 align="center"> Software </h2>
-
-
+  <P align="center">
+    <img src="https://img.shields.io/badge/Adobe-XD-red"/>&nbsp;&nbsp;&nbsp;
+    
+                          
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a href="mailto:daltonombiro8@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:daltonombiro8@gmail.com?subject=Hello%20Dalton,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
