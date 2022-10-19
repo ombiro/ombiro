@@ -44,14 +44,20 @@
 <h2 align="center"> Software </h2>
   <P align="center">
     <img src="https://img.shields.io/badge/Adobe-XD-red"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Adobe-Photoshop-blue"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Adobe-illustrator-orange"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Figma-fig-brightgreen"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Axure-RP-blue"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Adobe-suite-pink"/>&nbsp;&nbsp;&nbsp;
 
   </p>
-                          
+
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a href="mailto:daltonombiro8@gmail.com?subject=Hello%20Dalton,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span> +254718785715 </span>
 </p>
 
 <hr>
